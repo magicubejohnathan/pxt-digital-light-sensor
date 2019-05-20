@@ -1,0 +1,5 @@
+{
+  "DigitalLightSensor.init|block": "true",
+  "DigitalLightSensor.readVisibleLux|block": "true",
+  "{id:category}DigitalLightSensor": "DigitalLightSensor"
+}

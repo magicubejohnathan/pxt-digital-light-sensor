@@ -1,0 +1,5 @@
+{
+  "DigitalLightSensor.init|block": "小聰",
+  "DigitalLightSensor.readVisibleLux|block": "小聰2",
+  "{id:category}DigitalLightSensor": "小聰3"
+}
